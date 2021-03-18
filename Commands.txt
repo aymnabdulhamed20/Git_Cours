@@ -8,4 +8,6 @@ git -f ....
 dir
 mkdir  ....
 git pull origin 
+git config --list Or -l
+git config -l --show-origin
 
