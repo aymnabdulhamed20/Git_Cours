@@ -7,6 +7,7 @@ git  remote -v
 git -f ....
 dir
 mkdir  ....
+<<<<<<< HEAD
 git pull origin
 git --global user.name
 git --global user.email
@@ -16,4 +17,7 @@ git help config
 git config --global --edit
 my github cmd password 12345
 
+=======
+git pull origin 
+>>>>>>> d7a207e1562f0c99cc7ba1a15ff2de99ba8ebb11
 
